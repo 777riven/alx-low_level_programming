@@ -2,7 +2,7 @@
 
 /*
  * main - Write a C program that prints exactly "Programming is like building a
- * multilingual puzzle 
+ * multilingual puzzle
  *
  * Return: Always 0 (Success)
  */
