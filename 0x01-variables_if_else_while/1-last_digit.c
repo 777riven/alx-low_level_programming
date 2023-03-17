@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - main
- * Reteurn - return 0 if success
+ * Return: return 0 if success
  */
 int main(void)
 {
