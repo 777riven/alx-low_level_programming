@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * main - Positive anything is better than negative nothing
- * Return - functionreturns (0 success)
- */
+ * Return: function returns (0 success)
+ **/
 int main(void)
 {
 	int n;
