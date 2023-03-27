@@ -1,0 +1,1 @@
+0x05-pointers_arrays_strings: the 5th lesson in learning C.
