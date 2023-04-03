@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _strspn - a function that searches a string for any of a set of bytes
+ * _strpbrk - a function that searches a string for any of a set of bytes
  * @s: input string
  * @accept: input stirng
- * Return: n the number of similar chars
+ * Return: pointer
  */
 char *_strpbrk(char *s, char *accept)
 {
