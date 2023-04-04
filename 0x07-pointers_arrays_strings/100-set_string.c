@@ -3,7 +3,7 @@
 /**
  * set_string - put value of a pointer to a char
  * @s: input
- * @to: input 
+ * @to: input
  */
 
 void set_string(char **s, char *to)
