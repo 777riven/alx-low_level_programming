@@ -1,6 +1,7 @@
-#include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
+
 /**
  * main - a program that prints all arguments it receives.
  * @argc: number od argv parameters
@@ -15,7 +16,7 @@ int main(int argc, char *argv[])
 	if (argc == 1)
 	{
 		printf("0\n");
-		return (1);
+		return (0);
 	}
 	else
 	{
